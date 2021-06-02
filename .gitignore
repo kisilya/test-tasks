@@ -25,6 +25,9 @@ coverage
 # nyc test coverage
 .nyc_output
 
+# Mac os files
+.DS_Store
+
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
@@ -102,3 +105,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+# .idea vscode
+.idea
+
+# Tast cases implimentation
+.implementation
