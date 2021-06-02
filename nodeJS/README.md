@@ -3,7 +3,7 @@
 ## Стек:
 DB: PostgresSQL
 
-Framework: express, nestJS (предпочтительнее)
+Framework: express, nestJS __Зависит от описания в вакансии и вашего опыта__
 
 ## Описание
 
